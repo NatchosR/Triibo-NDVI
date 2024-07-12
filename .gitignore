@@ -1,1 +1,5 @@
 data/
+venv/
+images/symbology_QGIS_NDVI.png
+result/final_output/test
+result/NDVI_img/test
