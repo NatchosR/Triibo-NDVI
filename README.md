@@ -42,6 +42,7 @@ Landsat 8, an American satellite, captures land data using the Operational Land 
 **Period:** May - July (pick the month with the highest number of scene)
 
 The period is important has the NDVI can be heavily impacted according to the region and the season (rainy/dry season)
+
 ![NDVI_RioGrandeNorte](images/Graph_NDVI_RioGrandeNorte.png)
 
 Find here more information about NDVI, region and period: [FAO|EarthObservation_Brazil](https://www.fao.org/giews/earthobservation/country/index.jsp?code=BRA)
